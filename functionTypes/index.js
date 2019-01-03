@@ -1,4 +1,6 @@
 // Function Declaration: you are creating a function WITH a name
+// Function Declarations will be hoisted, meaning you can call the 
+// function before it appears in the code, and it will still execute properly
 function someFunc(arr){
     var newArray = [];
   
