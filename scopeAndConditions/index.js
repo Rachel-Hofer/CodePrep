@@ -31,7 +31,7 @@ if(name === "Rachel"){
 console.log(name) // === Rachel
 console.log(department) // === Engineering (JS is not a BLOCK scope, it is functional scope)
 
-// ex. of Functional Scope
+// ex. of Functional Scope: THIS is what Javascript has*
 var name = "Rachel";
 
 function allocateDepartment(){
