@@ -8,4 +8,5 @@ var def = "Hello Window"; // global variable
 
 // When you create a Global Variable, you are actually creating a property on the Global Object (window)
 
-// Whatever you do in the Global Scope is basically jsut creating properties on the Global Object. (In the case of a browser, Global Scope will always be the window)
+// Whatever you do in the Global Scope is basically jsut creating properties on the Global Object. (In the case of a
+kjdhfgbkjdahfgnbkljadfngkbv
