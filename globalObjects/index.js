@@ -10,3 +10,4 @@ var def = "Hello Window"; // global variable
 
 // Whatever you do in the Global Scope is basically jsut creating properties on the Global Object. (In the case of a
 kjdhfgbkjdahfgnbkljadfngkbv
+sughjkdbngkasdglma
