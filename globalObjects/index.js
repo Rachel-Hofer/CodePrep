@@ -10,7 +10,7 @@ var def = "Hello Window"; // global variable
 
 // Whatever you do in the Global Scope is basically just creating properties on the Global Object. 
 
-// Use react for "Contact Me" Page.
+// Use react for "Contact Me" Page:
 // LinkedIn
 // GitHub
 // Email
