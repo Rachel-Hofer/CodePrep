@@ -16,3 +16,4 @@ var def = "Hello Window"; // global variable
 // Email
 // Phone
 // CodeWars
+// Resume via GoogleDocs
