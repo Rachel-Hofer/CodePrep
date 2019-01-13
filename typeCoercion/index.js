@@ -6,3 +6,5 @@
 // = operator: is always for assignment, example: assigning a variable
 // == operator: compares values, returns a boolean
 // === operator: compares values AND data type, returns a boolean
+
+// undefined and null == false
